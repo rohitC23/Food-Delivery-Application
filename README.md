@@ -1,0 +1,13 @@
+Mock ui
+// Header
+//  logo
+//  navitems
+// Body
+//  Search
+//  RestaurantContainer
+//    RestaurantCard
+// Footer
+//  copyright
+//  Links
+//  Address
+//  Contact
